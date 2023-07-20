@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    command: python3 app.py
