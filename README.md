@@ -75,6 +75,6 @@ If you would like to contribute to this repository by adding more sample applica
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](./LICENSE)
 
 
