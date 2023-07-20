@@ -16,7 +16,7 @@ This repository includes sample applications in the following programming langua
 
 - [Node.js](./node)
 - [Python](./python)
-- Rust
+- [Rust](./rust)
 - [Go](./go)
 
 ## Prerequisites
@@ -63,7 +63,7 @@ Here's a list of the sample applications available in each language folder:
 
 - [Node.js: A simple "Hello, World!" web application using Express.js](./node)
 - [Python: A basic "Hello, World!" Web application](./python)
-- Rust: A command-line application that prints "Hello, World!" to the console.
+- [Rust: A command-line application that prints "Hello, World!" to the console](./rust)
 - [Go: A minimal web server that responds with "Hello, World!" to HTTP requests](./go)
 
 
