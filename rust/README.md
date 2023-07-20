@@ -59,6 +59,12 @@ When you're ready, start your application by running: docker compose up --build
 Your application will be available at http://localhost:3030
 ```
 
+## Running the Compose
+
+```
+docker compose up -d --build
+```
+
 
 ## Accessing the app on the browser
 
