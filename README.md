@@ -1,4 +1,4 @@
-# Polyglot Docker Init
+# List of Docker Init Sample Apps
 
 This repository provides a collection of sample applications in different programming languages, along with Docker init support for each language. It's a great starting point for developers who want to quickly get familiar with Docker init on various programming languages.
 
@@ -33,13 +33,13 @@ To get started with the sample apps, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
- git clone https://github.com/your-username/polyglot-docker-init.git
+ git clone https://github.com/your-username/docker-init-demos.git
 ```
 
 2. Navigate to the folder for the specific programming language you want to explore (e.g., `nodejs`, `python`, `rust`, or `go`).
 
 ```
- cd polyglot-docker-init.git
+ cd docker-init-demos.git
 ```
 
 ## Docker Initialization
