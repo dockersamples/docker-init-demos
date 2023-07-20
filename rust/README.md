@@ -1,4 +1,3 @@
-# Docker Init for Rust Developer
 
 # A Simple Hello Docker Rust Demo 
 
