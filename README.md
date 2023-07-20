@@ -33,7 +33,7 @@ To get started with the sample apps, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
- git clone https://github.com/your-username/docker-init-demos.git
+ git clone https://github.com/dockersamples/docker-init-demos.git
 ```
 
 2. Navigate to the folder for the specific programming language you want to explore (e.g., `nodejs`, `python`, `rust`, or `go`).
