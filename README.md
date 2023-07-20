@@ -14,8 +14,8 @@ This repository provides a collection of sample applications in different progra
 
 This repository includes sample applications in the following programming languages:
 
-- Node.js
-- Python
+- [Node.js](./node)
+- [Python](./python)
 - Rust
 - [Go](./go)
 
