@@ -7,7 +7,7 @@ Example used to demonstrate ```docker init``` CLI for a simple Hello Docker Rust
 ## Clone the repository
 
 ```
- git clone https://github.com/dockersamples/docker-init-demos
+git clone https://github.com/dockersamples/docker-init-demos
 cd docker-init-demos/rust
 ```
 
