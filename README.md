@@ -33,13 +33,13 @@ To get started with the sample apps, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
- git clone https://github.com/your-username/Polyglot-Docker-Init.git
+ git clone https://github.com/your-username/polyglot-docker-init.git
 ```
 
 2. Navigate to the folder for the specific programming language you want to explore (e.g., `nodejs`, `python`, `rust`, or `go`).
 
 ```
- cd Polyglot-Docker-Init.git
+ cd polyglot-docker-init.git
 ```
 
 ## Docker Initialization
