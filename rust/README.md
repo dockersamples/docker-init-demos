@@ -1,4 +1,4 @@
-
+<img width="1083" alt="image" src="https://github.com/dockersamples/docker-init-demos/assets/313480/3c4fda17-01d2-4d0e-ba72-2a8aa7a2e6ae">
 # A Simple Hello Docker Rust Demo 
 
 Example used to demonstrate ```docker init``` CLI for a simple Hello Docker Rust Program
@@ -82,3 +82,8 @@ docker compose up -d --build
 
 Hello from Docker!
 ```
+
+## Viewing it on Docker Desktop Dashboard
+
+<img width="1083" alt="image" src="https://github.com/dockersamples/docker-init-demos/assets/313480/f4173e6e-8f88-4ada-9651-2142ca9641a5">
+
