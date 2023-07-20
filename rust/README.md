@@ -6,7 +6,7 @@ Example used to demonstrate ```docker init``` CLI for a simple Hello Docker Rust
 
 We will be using two crate in this sample app. A "crate" refers to a package or a module in the Rust ecosystem. It is the fundamental unit of code distribution in Rust. Crates allow you to organize, share, and reuse code across different projects and applications.
 
-The first crate is "warp".  The warp provides the web framework for building HTTP applications. Second, we will use tokio. The "tokio" provides the asynchronous runtime to enable efficient handling of concurrent and non-blocking I/O operations. Together, these dependencies make it easy to create efficient and high-performance web applications in Rust.
+The first crate is "warp".  The warp provides the web framework for building HTTP applications. Second, we will use tokio. The "tokio" provides the asynchronous runtime to enable efficient handling of concurrent and non-blocking I/O operations. Together, these dependencies make it easy to create efficient and high-performance web applications in Rust. We specify them in our Cargo.toml file.
 
 ## Clone the repository
 
