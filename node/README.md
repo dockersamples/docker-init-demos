@@ -1,4 +1,4 @@
-# A Simple Hello World Node Demo 
+# A Simple Hello Docker Node Demo 
 
 Example used to demonstrate ```docker init``` CLI for a simple Hello World Node Program
 
