@@ -62,9 +62,10 @@ After running the container, you can access the sample app in your web browser b
 Here's a list of the sample applications available in each language folder:
 
 - [Node.js: A simple "Hello, World!" web application using Express.js](./node)
-- [Python: A basic "Hello, World!" Flask web application](./python)
+- [Python: A basic "Hello, World!" Web application](./python)
 - Rust: A command-line application that prints "Hello, World!" to the console.
 - [Go: A minimal web server that responds with "Hello, World!" to HTTP requests](./go)
+
 
 Feel free to explore each folder and modify the sample apps to experiment with Docker and your preferred language.
 
