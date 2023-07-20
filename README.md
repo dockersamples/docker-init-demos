@@ -17,7 +17,7 @@ This repository includes sample applications in the following programming langua
 - Node.js
 - Python
 - Rust
-- Go
+- [Go](./go)
 
 ## Prerequisites
 
