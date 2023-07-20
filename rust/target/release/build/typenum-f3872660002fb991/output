@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ajeetsraina/july/test/docker-init-demos/rust/target/release/build/typenum-f3872660002fb991/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ajeetsraina/july/test/docker-init-demos/rust/target/release/build/typenum-f3872660002fb991/out/op.rs
