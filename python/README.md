@@ -1,4 +1,4 @@
-# A Simple Hello World Python Demo 
+# A Simple Hello Docker Python Demo 
 
 Example used to demonstrate ```docker init``` CLI for a simple Hello World Python Program
 
