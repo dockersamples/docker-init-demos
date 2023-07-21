@@ -1,5 +1,8 @@
 # List of Docker Init Sample Apps
 
+<img width="594" alt="image" src="https://github.com/dockersamples/docker-init-demos/assets/313480/ea0d3e1e-46f7-4855-9f40-4ddf1525e10e">
+
+
 This repository provides a collection of sample applications in different programming languages, along with Docker init support for each language. It's a great starting point for developers who want to quickly get familiar with Docker init on various programming languages.
 
 ## Table of Contents
