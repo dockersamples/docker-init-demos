@@ -1,6 +1,10 @@
 services:
-  server:
-    build:
-      context: .
+  app:
+    build: .
     ports:
-      - 8080:8080
+      - "8080:8080"
+    command: python3 app.py
+    x-develop:
+      watch:
+        - action: rebuild
+          path: requirements.txt
