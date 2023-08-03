@@ -1,7 +1,11 @@
-<img width="1083" alt="image" src="https://github.com/dockersamples/docker-init-demos/assets/313480/3c4fda17-01d2-4d0e-ba72-2a8aa7a2e6ae">
 # A Simple Hello Docker Rust Demo 
 
 Example used to demonstrate ```docker init``` CLI for a simple Hello Docker Rust Program
+
+
+<img width="1083" alt="image" src="https://github.com/dockersamples/docker-init-demos/assets/313480/3c4fda17-01d2-4d0e-ba72-2a8aa7a2e6ae">
+
+
 
 We will be using two crates in this sample app. A "crate" refers to a package or a module in the Rust ecosystem. It is the fundamental unit of code distribution in Rust. Crates allow you to organize, share, and reuse code across different projects and applications.
 
