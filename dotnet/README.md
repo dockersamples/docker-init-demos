@@ -41,15 +41,12 @@ dotnet run --urls http://localhost:5000
 Change directory to /src and run the following command:
 
 ```
- docker init
-```
-
+docker init
 This utility will walk you through creating the following files with sensible defaults for your project:
   - .dockerignore
   - Dockerfile
   - docker-compose.yaml
 
-```
 ? What application platform does your project use? ASP.NET
 default: "myWebApp"
 ? What's the name of your solution's main project? myWebApp
