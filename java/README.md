@@ -40,7 +40,6 @@ This utility will walk you through creating the following files with sensible de
   - docker-compose.yaml
 
 ? What application platform does your project use? Java
-default: "myWebApp"
 ? What's the relative directory (with a leading .) for your app? ./src
 ? What version of Java do you want to use? 17
 ? What port does your server listen on? 8080
