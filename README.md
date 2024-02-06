@@ -22,6 +22,7 @@ This repository includes sample applications in the following programming langua
 - [Rust](./rust)
 - [Go](./go)
 - [ASP.NET](./dotnet)
+- [Java](./java)
 
 ## Prerequisites
 
@@ -69,6 +70,7 @@ Here's a list of the sample applications available in each language folder:
 - [Python: A basic "Hello, Docker!" Web application](./python)
 - [Rust: A command-line application that prints "Hello, Docker!" to the console](./rust)
 - [Go: A minimal web server that responds with "Hello, Docker!" to HTTP requests](./go)
+- [Java: A simple "Hello Docker!" Spring Boot Rest Service](./java)
 
 
 Feel free to explore each folder and modify the sample apps to experiment with Docker and your preferred language.

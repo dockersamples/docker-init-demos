@@ -24,7 +24,7 @@ In the browser, navigate to `` to see the greeting.
 ```
 > curl https://http://localhost:8080/greeting
 
-{"id":1,"content":"Hello, World!"}
+{"id":1,"content":"Hello, Docker!"}
 
 ```
 
@@ -59,7 +59,7 @@ Error: Could not find or load main class org.springframework.boot.loader.launch.
 Caused by: java.lang.ClassNotFoundException: org.springframework.boot.loader.launch.JarLauncher
 ```
 
-To fix this error, you need to update the Dockerfile to use the `java -jar` command to run the application.
+To fix this error, you need to update the Dockerfile to use the `java` command to run the application.
 Update the ENTRYPOINT in the Dockerfile to use the following command:
 
 ```
