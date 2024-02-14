@@ -90,4 +90,9 @@ If you have any suggestions or encounter any issues related to Docker Init, feel
 
 This repository is licensed under the [MIT License](./LICENSE)
 
+## Contributors
+
+- [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina/)
+- [Nilesh Gule](https://www.linkedin.com/in/nileshgule)
+
 
