@@ -5,6 +5,8 @@
 
 This repository provides a collection of sample applications in different programming languages, along with Docker init support for each language. It's a great starting point for developers who want to quickly get familiar with Docker init on various programming languages.
 
+Note: This repository is built and maintained by community members and is not officially maintained by the Docker Team.
+
 ## Table of Contents
 
 - [Languages](#languages)
