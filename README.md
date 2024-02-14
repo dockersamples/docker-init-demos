@@ -81,6 +81,11 @@ Feel free to explore each folder and modify the sample apps to experiment with D
 
 If you would like to contribute to this repository by adding more sample applications, improving documentation, or fixing issues, feel free to open a pull request. We welcome contributions from the community!
 
+## Where to raise issues?
+
+
+If you have any suggestions or encounter any issues related to Docker Init, feel free to raise them under our [Docker Public Roadmap repository](https://github.com/docker/roadmap)
+
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE)
