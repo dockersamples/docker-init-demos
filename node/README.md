@@ -61,12 +61,10 @@ This utility will walk you through creating the following files with sensible de
   docker compose up -d --build
  ```
  
- ## Accessing the Python app
+ ## Accessing the Node app
  
  ```
- curl localhost:8080
-
-          ##         .
+ curl localhost:8080      ##         .
     ## ## ##        ==
  ## ## ## ## ##    ===
 /"""""""""""""""""\___/ ===
