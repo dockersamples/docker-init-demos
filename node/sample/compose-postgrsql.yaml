@@ -1,0 +1,31 @@
+services:
+  server:
+    build:
+      context: .
+    environment:
+      NODE_ENV: production
+      # Ensure your Node.js app is configured to use these environment variables for the database connection
+      DATABASE_HOST: db
+      DATABASE_USER: postgres
+      DATABASE_PASSWORD: your_password
+      DATABASE_NAME: your_database
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: your_password
+      POSTGRES_DB: your_database
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432" # Optional: Expose PostgreSQL port only if you need to access it directly from the host
+
+volumes:
+  db-data:
+    # This named volume will persist database data
