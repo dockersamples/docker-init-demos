@@ -1,0 +1,37 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    command: python3 app.py
+    depends_on:
+      - db
+    profiles: ["dev", "prod"]
+
+  # Database
+  db:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=dbuser
+      - POSTGRES_PASSWORD=dbpassword
+      - POSTGRES_DB=mydatabase
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    restart: always
+    profiles: ["dev", "prod"]
+
+  # Monitoring service
+  prometheus:
+    image: prom/prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - prometheus_data:/prometheus
+    depends_on:
+      - app
+    profiles: ["prod"]
+
+
+volumes:
+  db_data:
+  prometheus_data:
